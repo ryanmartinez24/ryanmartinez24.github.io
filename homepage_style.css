@@ -7,6 +7,7 @@ background : LightGray;
 position: fixed;
     left: 15%;
     top: 0%;
+    border-radius: 50%;
     height:200px;
     width: 200px;
 }
@@ -44,8 +45,8 @@ position: fixed;
     transform: translate(50%, 50%);
 }
 .socialImg {
-    height: 100px;
-    width: 100px;
+    height: 75px;
+    width: 75px;
 }
 
 a:link { text-decoration: none; }
