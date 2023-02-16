@@ -1,0 +1,44 @@
+body{
+background: LightGray
+}
+
+.header{
+    color: red;
+    font : Roboto;
+    font-size: 20px;
+    width: 10%
+
+}
+.blurb {
+    font-size: 20px;
+    width: 30%;
+
+}
+.navbar {
+    position: relative;
+    left: 50%;
+    top: 40%;
+    width: 25%;
+    transform: translate(-50%, -50%);
+    background: grey;
+    border: 5px solid black;
+}
+.link{
+    color : black;
+    font : Roboto;
+    font-size: 40px;
+    letter-spacing: 1px;
+    padding: 10px;
+}
+
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
