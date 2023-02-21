@@ -9,7 +9,7 @@ body{
 .navbar {
     position: absolute;
     left: 65%;
-    top: 50%;
+    top: 30%;
     transform: translate(0%, -50%);
     background: grey;
     border: 5px solid black;
@@ -26,7 +26,7 @@ body{
 }
 
 .header{
-color: red;
+color: black;
 font : Roboto;
 font-size: 20px;
 }

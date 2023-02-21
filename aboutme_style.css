@@ -3,7 +3,7 @@ background: LightGray
 }
 
 .header{
-    color: red;
+    color: black;
     font : Roboto;
     font-size: 20px;
     width: 10%
@@ -15,9 +15,9 @@ background: LightGray
 
 }
 .navbar {
-    position: relative;
+    position: fixed;
     left: 50%;
-    top: 40%;
+    top: 30%;
     width: 30%;
     transform: translate(-50%, -50%);
     background: grey;
