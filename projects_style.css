@@ -1,0 +1,45 @@
+body{
+    background: LightGray;
+}
+.header{
+    color: black;
+    font : Roboto;
+    font-size: 30px;
+}
+
+.navbar {
+    position: relative;
+    left: 50%;
+    top: 10%;
+    width: 25%;
+    transform: translate(-50%, -50%);
+    background: grey;
+    border: 5px solid black;
+}
+
+.projects{
+    position: relative;
+    left: 50%;
+    width: 50%;
+    transform: translate(-50%, 0);
+}
+
+.link{
+    color : black;
+    font : Roboto;
+    font-size: 40px;
+    letter-spacing: 1px;
+    padding: 10px;
+}
+
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
