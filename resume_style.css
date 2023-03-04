@@ -2,14 +2,12 @@ body{
     background: LightGrey;
 }
 
-.resume, .navbar{
-    display: inline-block;
-}
 
 .navbar {
-    position: absolute;
-    left: 65%;
+    position: relative;
+    left: 60%;
     top: 30%;
+    width: 25%;
     transform: translate(0%, -50%);
     background: grey;
     border: 5px solid black;
