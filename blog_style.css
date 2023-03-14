@@ -16,7 +16,8 @@ body{
     background: grey;
     border: 5px solid black;
 }
-.blog{
+
+.blog {
     position: relative;
     left: 50%;
     width: 35%;

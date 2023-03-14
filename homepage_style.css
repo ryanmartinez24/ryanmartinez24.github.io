@@ -15,9 +15,10 @@ position: fixed;
     font : Roboto;
     color: black;
     font-size: 50px;
-    position: fixed;
+    position: absolute;
     left: 2%;
     top 30%;
+    z-index: 10
 }
 
 .link{
@@ -46,6 +47,19 @@ position: fixed;
 .socialImg {
     height: 75px;
     width: 75px;
+}
+
+.bannerImage {
+
+    position: fixed;
+    top:0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    background-image: url("grandcanyon.jpg");
+    background-color: purl;
+    background-position: center;
+
 }
 
 a:link { text-decoration: none; }
