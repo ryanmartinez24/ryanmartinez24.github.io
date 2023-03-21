@@ -23,7 +23,7 @@ background: LightGray
     left: 50%;
     top: 10%;
     width: 25%;
-    min-height: 30vh;
+    min-height: 10vh;
     transform: translate(-50%, -50%);
     background: grey;
     border: 5px solid black;
